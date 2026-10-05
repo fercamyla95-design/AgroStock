@@ -130,7 +130,8 @@ AgroStock/
 - Python / Pandas — preparação e tratamento de dados para futuras evoluções;
 - GitHub — documentação e versionamento do projeto.
 
-🔄 O projeto passou por diversos aprimoramentos ao longo da implementação. Por isso, alguns registros iniciais apresentam falhas ou diferenças de organização, que refletem justamente a evolução e os ajustes realizados durante o desenvolvimento da solução.
+## 🔄 O projeto passou por diversos aprimoramentos ao longo da implementação.
+Por isso, alguns registros iniciais apresentam falhas ou diferenças de organização, que refletem justamente a evolução e os ajustes realizados durante o desenvolvimento da solução.
 
 🔒 Privacidade dos dados
 Por se tratar de um projeto baseado em uma operação real, os dados publicados neste repositório foram adaptados para fins de demonstração.
